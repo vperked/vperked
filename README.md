@@ -1,7 +1,7 @@
 ### About me!
 - 🤔 Hello, i am Perked.
 - 🌱 I’m currently learning LUA
-- 💬 Ask me about: Computers, Coding, Nature, Space.
+- 💬 Ask me about: Computers, Coding, Nature, Space, MySQL.
 - 📫 How to reach me: perked@nebulamods.ca
 - ⚡ Fun fact: I love cats! 
 <!--
