@@ -1,9 +1,10 @@
 ### About me!
+---------------------------------------
 - 🤔 Hello, i am Perked.
 - 🌱 I’m currently learning LUA
 - 💬 Ask me about: Computers, Coding, Nature, Space, MySQL.
 - 📫 How to reach me: perked@nebulamods.ca
-- ⚡ Fun fact: I love cats! 
+- ⚡ Fun fact: I love cats!
 <!--
 **vperked/vperked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
