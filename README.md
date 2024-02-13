@@ -30,4 +30,6 @@ alt ="javascript">
 alt ="lua">
 <img src ="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"
 alt ="bash">
-<img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColo
+<img src ="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+alt ="ubuntu">
+
