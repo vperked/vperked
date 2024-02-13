@@ -7,6 +7,9 @@
 - ⚡ Fun fact: I love cats!
 - 
 ----------------------------------------
+
+#       Status Badgets
+--------------------------
 <img src="https://api.statusbadges.me/badge/status/1056697577262813234?simple=true" alt="status">
 
 <img src="https://api.statusbadges.me/badge/spotify/1056697577262813234" alt="spotify">
