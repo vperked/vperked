@@ -8,7 +8,7 @@
 - 
 ----------------------------------------
 
-#       Status Badges
+###    Status Badges
 
 <img src="https://api.statusbadges.me/badge/status/1056697577262813234?simple=true" alt="status">
 
@@ -16,6 +16,10 @@
 
 <img src="https://api.statusbadges.me/badge/vscode/1056697577262813234" alt="vscode">
 
-<img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
-alt="linux" >
 ----------------------
+
+### What do i like to dabble in?
+
+
+I like to dable in <img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+alt="linux" >
