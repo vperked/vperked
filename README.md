@@ -31,4 +31,8 @@ alt ="lua">
 alt ="bash">
 <img src ="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
 alt ="ubuntu">
+<img src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
+alt ="html">
+<img src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" 
+alt ="css">
 
