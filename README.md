@@ -1,7 +1,7 @@
 ###         About me!
 ---------------------------------------
 - 🤔 Hello, i am Perked.
-- 🌱 I’m currently learning JS and FiveM Related things.
+- 🌱 I’m currently learning JS.
 - 💬 Ask me about: Computers, Coding, Nature, Space, MySQL, Cybersecurity.
 - 📫 How to reach me: perked@vperked.online
 - ⚡ Fun fact: I love cats!
