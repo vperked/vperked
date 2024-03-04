@@ -9,15 +9,6 @@
 <img src="https://github.com/vperked/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 ----------------------------------------
 
----------------------------------------
-###    Status Badges
-
-<img src="https://api.statusbadges.me/badge/status/1056697577262813234?simple=true" alt="status">
-
-<img src="https://api.statusbadges.me/badge/spotify/1056697577262813234" alt="spotify">
-
-<img src="https://api.statusbadges.me/badge/vscode/1056697577262813234" alt="vscode">
----------------------------------------
 
 ---------------------------------------
 ### What do i like to dabble in?
@@ -34,3 +25,13 @@ alt ="ubuntu">
 alt ="html">
 <img src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" 
 alt ="css">
+
+---------------------------------------
+###    Status Badges
+
+<img src="https://api.statusbadges.me/badge/status/1056697577262813234?simple=true" alt="status">
+
+<img src="https://api.statusbadges.me/badge/spotify/1056697577262813234" alt="spotify">
+
+<img src="https://api.statusbadges.me/badge/vscode/1056697577262813234" alt="vscode">
+---------------------------------------
