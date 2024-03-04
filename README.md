@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I love cats!
 <img src="https://github.com/vperked/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/vperked/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-----------------------------------------
 
 
 ---------------------------------------
