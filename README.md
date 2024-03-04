@@ -26,7 +26,6 @@ alt ="html">
 <img src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" 
 alt ="css">
 
----------------------------------------
 ###    Status Badges
 
 <img src="https://api.statusbadges.me/badge/status/1056697577262813234?simple=true" alt="status">
