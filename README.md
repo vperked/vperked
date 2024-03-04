@@ -6,6 +6,7 @@
 - 📫 How to reach me: perked@vperked.online
 - ⚡ Fun fact: I love cats!
 ![](https://raw.githubusercontent.com/vperked/stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/vperked/stats/master/generated/overview.svg#gh-light-mode-only)
 ----------------------------------------
 
 ###    Status Badges
