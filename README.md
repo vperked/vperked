@@ -15,7 +15,7 @@
 
 <img src="https://api.statusbadges.me/badge/vscode/1056697577262813234" alt="vscode">
 ![](https://raw.githubusercontent.com/vperked/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/vperked/stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/vperked/stats/master/generated/languages.svg#gh-dark-mode-only)
 ----------------------
 
 ### What do i like to dabble in?
