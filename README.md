@@ -5,8 +5,6 @@
 - 💬 Ask me about: Computers, Coding, Nature, Space, MySQL, Cybersecurity.
 - 📫 How to reach me: perked@vperked.online
 - ⚡ Fun fact: I love cats!
-![](https://raw.githubusercontent.com/vperked/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/vperked/stats/master/generated/overview.svg#gh-light-mode-only)
 ----------------------------------------
 
 ###    Status Badges
@@ -16,7 +14,8 @@
 <img src="https://api.statusbadges.me/badge/spotify/1056697577262813234" alt="spotify">
 
 <img src="https://api.statusbadges.me/badge/vscode/1056697577262813234" alt="vscode">
-
+![](https://raw.githubusercontent.com/vperked/stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/vperked/stats/master/generated/overview.svg#gh-light-mode-only)
 ----------------------
 
 ### What do i like to dabble in?
