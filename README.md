@@ -1,7 +1,6 @@
 ###         About me!
 ---------------------------------------
 - 🤔 Hello, i am Perked.
-- 🌱 I’m currently learning Python.
 - 💬 Ask me about: Computers, Coding, Nature, Space, MySQL, Cybersecurity.
 - 📫 How to reach me: perked@vperked.online
 - ⚡ Fun fact: I love cats!
