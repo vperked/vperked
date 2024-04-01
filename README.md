@@ -21,6 +21,8 @@ alt ="ubuntu">
 alt ="html">
 <img src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" 
 alt ="css">
+<img src ="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black"
+alt = "go">
 
 
 ---------------------------------------
