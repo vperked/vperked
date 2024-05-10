@@ -1,7 +1,7 @@
 ### About Me
 Hello there! My name is Perked. I have a passion for Computer Science, Gaming, Sleeping, CyberSecurity, and Networking.
 
-![Overview](https://github.com/vperked/stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![Overview](https://github-readme-stats.vercel.app/api?username=vperked&theme=tokyonight&show_icons=true&hide_border=true&count_private=true))
 
 ### Main Languages
 - ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black)
