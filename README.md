@@ -1,14 +1,15 @@
 ###         About me!
 ---------------------------------------
-- 🤔 Hello, i am Perked.
-- 💬 Ask me about: Computers, Coding, Nature, Space, MySQL, Cybersecurity.
-- 📫 How to reach me: perked@vperked.online
-- ⚡ Fun fact: I love cats!
+Hello, my name is Perked! I enjoy, Computer Science, Gaming, Sleeping, Networking.
 <img src="https://github.com/vperked/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-
 ---------------------------------------
-### What do i like to dabble in?
-
+### Main Languages
+<img src ="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black"
+alt = "go">
+<img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black"
+alt = "c" >
+-----------
+### I know a few things about
 <img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
 alt="linux" >
 <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
@@ -21,11 +22,9 @@ alt ="ubuntu">
 alt ="html">
 <img src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" 
 alt ="css">
-<img src ="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black"
-alt = "go">
 <img src ="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=csharp&logoColor=black"
 alt = "csharp">
-
+-------------
 
 ---------------------------------------
 ###    Status Badges
