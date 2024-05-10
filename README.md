@@ -1,5 +1,5 @@
 ### About Me
-Hello there! I go by the name Perked. I have a passion for Computer Science, Gaming, Sleeping, and Networking.
+Hello there! My name is Perked. I have a passion for Computer Science, Gaming, Sleeping, CyberSecurity, and Networking.
 
 ![Overview](https://github.com/vperked/stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 
