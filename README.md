@@ -1,6 +1,6 @@
 ###         About me!
 ---------------------------------------
-Hello, my name is Perked! I enjoy, Computer Science, Gaming, Sleeping, Networking.
+# Hello, my name is Perked! I enjoy, Computer Science, Gaming, Sleeping, Networking.
 <img src="https://github.com/vperked/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 ---------------------------------------
 ### Main Languages
