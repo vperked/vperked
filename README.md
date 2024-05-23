@@ -3,9 +3,9 @@ Hello there! My name is Perked. I have a passion for Computer Science, Gaming, S
 
 ![Overview](https://github-readme-stats.vercel.app/api?username=vperked&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-### Main Languages
+### Main Language
 - ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black)
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black)
+  
 
 ### Familiar with
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
