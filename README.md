@@ -1,4 +1,3 @@
-### About Me
 People turn to therapy or drugs to cope with their problems, i code to cope with my problems.
 
 ![Overview](https://github-readme-stats.vercel.app/api?username=vperked&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
