@@ -1,4 +1,4 @@
-They was dissing me so i took the insprational quote out 💯
+I LOVE the computers.
 ### Main Language
 - ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
