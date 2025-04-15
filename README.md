@@ -1,4 +1,4 @@
-I LOVE computers.
+Hello, i like to code & use Linux. Ive use Ubuntu -> Pop OS -> Arch -> Debain
 ### Main Language
 - ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
