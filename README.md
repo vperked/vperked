@@ -19,6 +19,11 @@
   <sub>(current)</sub>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <sub>for gaming 🎮 and stuff like that</sub>
+</p>
+
 ### 🚀 Main Languages
 
 <p>
@@ -38,9 +43,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vperked&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vperked&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
